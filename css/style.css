@@ -1,0 +1,35 @@
+.logo{
+    height: 50px;
+}
+.contact-info{
+    margin-left: 500px;
+    font-size: 20px;
+    color: black;
+}
+.bg-color{
+    background-color:#FFFBF0;
+}
+.img{
+    height: 550px;
+    width: 600px;
+    margin-bottom: 20px;
+}
+.title-1{
+    color: rgb(255, 167, 104);
+    margin-top: 150px;
+    font-size: 60px;
+}
+.title-2{
+    color: rgb(114, 214, 214);
+    font-size: 60px;
+}
+.buy-button{
+    padding-left: 25px;
+    padding-right: 25px;
+    border-radius: 5px;
+}
+.icon{
+    height: 40px;
+    width: 50px;
+    padding-right: 8px;
+}
