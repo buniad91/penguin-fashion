@@ -1,3 +1,8 @@
+
+body{
+    margin: 0 auto;
+    padding: 0;
+}
 .logo{
     height: 50px;
 }
@@ -32,4 +37,101 @@
     height: 40px;
     width: 50px;
     padding-right: 8px;
+}
+
+.price{
+    font-size: 40px;
+}
+
+.bg-shoe{
+    height: 400px;
+    width: 401px;
+    background-color:rgb(240, 240, 240);
+    border-radius: 15px;
+    margin-top: 10px ;
+    margin-left: 7px;
+    margin-right:7px ;
+}
+
+.shoe-button{
+    background-color: rgb(3, 170, 170);
+    color: white;
+    font-size: 20px;
+    margin-left: 100px;
+    margin-bottom: 20px;
+    border: none;
+}
+
+.card-footer-casual{
+    background-color: white;
+    border: none;
+}
+.card-footer-formal{
+    background-color: white;
+    border: none;
+}
+
+.CASUAL-SHOES{
+    border: none;
+}
+
+
+#content-main{
+    float: left;
+    width: 45%;
+    padding-bottom: 20px;
+    
+}
+
+.img-logo{
+    height: 90px;
+}
+.background-content{
+    background-color: rgb(253, 253, 255);
+    padding-left: 20px;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+.title{
+    margin-left: 70px;
+}
+.clear div{
+    clear: both;
+}
+
+.ui{
+    height: 400px;
+    width: 670px;
+    margin-left: 40px;
+    margin-top: 50px;
+    padding-bottom: 20px;
+}
+
+.card-footer{
+    border: none
+}
+
+
+.footer-box{
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.input-list{
+   margin-bottom: 20px;
+   border-radius: 5px;
+   border: none;
+   padding-right: 50px;
+}
+.buton{
+    height: 50px;
+    width: 150px;
+    border: none;
+    border-radius: 10px;
+}
+.icons{
+    height: 40px;
+    width: 40px;
+    margin-left: 40px;
+    margin-bottom: 20px;
 }
